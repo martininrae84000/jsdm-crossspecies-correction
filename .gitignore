@@ -1,0 +1,17 @@
+# Data (download from Zenodo, see data/README.md)
+data/*.csv
+
+# Results
+simulations/results/
+application/results/
+
+# Compiled TMB libraries
+*.o
+*.so
+*.dll
+*.tmbad
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
